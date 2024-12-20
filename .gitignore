@@ -1,0 +1,5 @@
+venv
+.env
+assignments.txt
+users.txt
+.idea
